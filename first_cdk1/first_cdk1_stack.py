@@ -17,3 +17,5 @@ class FirstCdk1Stack(Stack):
         #     self, "FirstCdk1Queue",
         #     visibility_timeout=Duration.seconds(300),
         # )
+
+    print("helooo")
